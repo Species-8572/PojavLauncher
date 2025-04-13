@@ -1,7 +1,8 @@
 # PojavLauncher
-for Mr_bob because he is incompotent
+For Mr_bob because he is incompotent
 
 Here's a more detailed breakdown:
+
 1. Enable Unknown Sources
    
 - Go to your device's Settings app.
@@ -10,13 +11,15 @@ Here's a more detailed breakdown:
 
 - Find the Unknown sources option and turn it on. 
 
-- You may be prompted to confirm the action. 
+- You may be prompted to confirm the action.
+  
 
 3. Download the APK File:
    
 - You can download the APK file from a trusted website or source. 
 
-- Ensure the source is reliable and that you scan the file for any potential threats before installation. 
+- Ensure the source is reliable and that you scan the file for any potential threats before installation.
+  
 
 5. Install the APK:
    
